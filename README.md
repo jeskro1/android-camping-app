@@ -1,2 +1,5 @@
-# android-camping-app
-Android application developed as a school project to manage campsite bookings. Includes user authentication, booking history, and Google Maps integration. Built with Kotlin and Jetpack Compose, using Firebase for backend services.
+# MOB3000Gruppe4Camping
+
+Rolf Salvesen, Jesper Krøgli, Sondre Matre
+
+Dette er våres gruppe prosjekt til Applikasjons utvikling for mobile enheter.
